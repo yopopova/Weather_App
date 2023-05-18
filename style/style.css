@@ -25,3 +25,10 @@ body {
     box-shadow: 0 1.8em 3.7em rgba(3, 46, 87, 0.2);
     text-align: center;
 }
+
+#search-container {
+    font-size: 1em;
+    display: grid;
+    grid-template-columns: 9fr 3fr;
+    gap: 1.25em;
+}
