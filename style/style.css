@@ -32,3 +32,10 @@ body {
     grid-template-columns: 9fr 3fr;
     gap: 1.25em;
 }
+
+#search-container input,
+#search-container button {
+    font-size: 1em;
+    outline: none;
+    border: none;
+}
