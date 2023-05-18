@@ -39,3 +39,10 @@ body {
     outline: none;
     border: none;
 }
+
+#search-container input {
+    background-color: transparent;
+    color: #ffffff;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+    padding: 0.7em;
+}
