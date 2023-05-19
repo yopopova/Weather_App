@@ -95,3 +95,10 @@ body {
     gap: 40px;
     margin-top: 20px;
 }
+
+#temp-container div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
