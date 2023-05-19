@@ -80,3 +80,11 @@ body {
     width: 6.2em;
     margin: 0.6em 0 0 0;
 }
+
+#weather, #feels-like {
+    font-weight: 100;
+}
+
+#weather {
+    margin-top: -15px;
+}
