@@ -102,3 +102,8 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+
+i.fa-solid {
+    color: #ffffff;
+    padding: 25px 0 7px 0;
+}
