@@ -107,3 +107,7 @@ i.fa-solid {
     color: #ffffff;
     padding: 25px 0 7px 0;
 }
+
+#temp-container .temp {
+    font-weight: 100;
+}
