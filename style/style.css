@@ -81,7 +81,7 @@ body {
     margin: 0.6em 0 0 0;
 }
 
-#weather, #feels-like {
+#weather, #feels-like, #temp-container .temp {
     font-weight: 100;
 }
 
@@ -106,8 +106,4 @@ body {
 i.fa-solid {
     color: #ffffff;
     padding: 25px 0 7px 0;
-}
-
-#temp-container .temp {
-    font-weight: 100;
 }
