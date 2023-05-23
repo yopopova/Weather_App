@@ -16,3 +16,8 @@ The app is based on:
 - OpenWeatherMap (Weather API / Current Weather Data)
 - Font Awesome Icons
 - Google Fonts
+
+## Live Demo
+
+- Web app live demo: [https://weatherapp/yopopova.repl.co](https://weatherapp--yopopova.repl.co)
+- Play with the code at: [https://replit.com/@yopopova/WeatherApp](https://replit.com/@yopopova/WeatherApp?v=1)
