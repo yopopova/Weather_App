@@ -6,3 +6,13 @@ A simple application that shows the weather in different cities around the world
 - the maximum and minimum daily temperature
 - the percent of humidity
 - the speed of the wind
+
+## App Details
+
+The app is based on:
+
+- JavaScript
+- HTML & CSS
+- OpenWeatherMap (Weather API / Current Weather Data)
+- Font Awesome Icons
+- Google Fonts
