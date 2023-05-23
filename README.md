@@ -21,3 +21,7 @@ The app is based on:
 
 - Web app live demo: [https://weatherapp/yopopova.repl.co](https://weatherapp--yopopova.repl.co)
 - Play with the code at: [https://replit.com/@yopopova/WeatherApp](https://replit.com/@yopopova/WeatherApp?v=1)
+
+## Home Screen with Search Bar
+
+![home-screen](https://github.com/yopopova/Weather_App/assets/59256039/28109d95-642a-4230-a5ce-bcbad755c757)
