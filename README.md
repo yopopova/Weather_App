@@ -25,3 +25,7 @@ The app is based on:
 ## Home Screen with Search Bar
 
 ![home-screen](https://github.com/yopopova/Weather_App/assets/59256039/28109d95-642a-4230-a5ce-bcbad755c757)
+
+## Weather Forecast for the Current City
+
+![city-weather](https://github.com/yopopova/Weather_App/assets/59256039/52a74709-55fe-42ea-8ae3-841198db618c)
