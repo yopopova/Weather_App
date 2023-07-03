@@ -14,6 +14,7 @@ The app is based on:
 - JavaScript
 - HTML & CSS
 - OpenWeatherMap (Weather API / Current Weather Data)
+- Gradient Magic Backgrounds
 - Font Awesome Icons
 - Google Fonts
 
