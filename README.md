@@ -20,8 +20,7 @@ The app is based on:
 
 ## Live Demo
 
-- Web app live demo: [https://weatherapp/yopopova.repl.co](https://weatherapp--yopopova.repl.co)
-- Play with the code at: [https://replit.com/@yopopova/WeatherApp](https://replit.com/@yopopova/WeatherApp?v=1)
+You can [follow the link](https://yopopova.github.io/Weather_App/) to open the app in your browser.
 
 ## Home Screen with Search Bar
 
